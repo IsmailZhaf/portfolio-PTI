@@ -1,0 +1,17 @@
+{
+  "name": "portfolio_pti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-confetti": "^1.9.0",
+    "typed.js": "^2.0.16",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
